@@ -1,8 +1,8 @@
 ## Aleksei Puzako ##
 ### Contacts: ###
-E-mail: <Mr.Puzako@gmail.com>
-GitHub:[Aleksei Puzako](https://github.com/Aleks0ne)
-Phone: +375333333588
++ E-mail: <Mr.Puzako@gmail.com>
++ GitHub:[Aleksei Puzako](https://github.com/Aleks0ne)
++ Phone: +375333333588
 
 ___
 ### About me ###
