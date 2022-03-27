@@ -1,4 +1,4 @@
-https://github.com/Aleks0ne/rsschool-cv/cv
+https://Aleks0ne.github.io/rsschool-cv/cv
 
 
 
