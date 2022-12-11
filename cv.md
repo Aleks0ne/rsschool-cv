@@ -25,13 +25,17 @@ function checkmin(a, b){
 }
 ```
 
+
 ### Working experience ###
 I am currently working as a Business Development Engineer. In the future, I plan to become a front-end developer.
+
 
 ### Education ###
 + Belarusian National Technical University, Faculty of Civil Engineering, Civil Engineer
 + The Rolling Scopes School, JavaScript/Front-end
 
+
 ### Languages ###
 + Russian
 + English (basic)
++ Belarusian (basic)
