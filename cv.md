@@ -4,7 +4,6 @@
 + GitHub:[Aleksei Puzako](https://github.com/Aleks0ne)
 + Phone: +375333333588
 
-
 ### About me ###
 Sociable, cheerful, open to new things, executive and responsible in business. I believe that anything is possible if you really want it.
 
